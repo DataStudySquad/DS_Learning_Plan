@@ -2,5 +2,9 @@ label-alias:
   bug: 'kind/bug'
   feature_request: 'enhancement'
   question: 'question'
-
-
+  PYTHON: 'python'
+  SQL: 'sql'
+  BI: 'bi'
+  TASK: 'TASK'
+  DATA_PROCESSING: 'DATA PROCESSING'
+  LEARN: 'learn'
